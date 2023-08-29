@@ -1,4 +1,4 @@
 # awesome-project
 My first Git Repository.
 <br>
-Author - Anish Prajapati
+Author - Anish Prajapati (CSE student)
